@@ -478,7 +478,7 @@ label[for=check] {
 .arrow_l {
 	width: 0;
 	height: 0;
-	left: 6.1em;
+	left: 5.1em;
 	top: 4.72em;
 	position: relative;
 	border-color: transparent transparent #cecece;
@@ -494,7 +494,7 @@ label[for=check] {
 .arrow_r {
 	width: 0;
 	height: 0;
-	left: 1.2em;
+	left: 2.2em;
 	top: 4.32em;
 	position: relative;
 	border-color: transparent transparent #cecece;
